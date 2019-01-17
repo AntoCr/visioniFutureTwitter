@@ -75,6 +75,13 @@
 }
 
 @font-face {
+	font-family: Helvetica Neue;
+	font-weight: black italic;
+	font-style: normal;
+	src: url('fonts/HelveticaBlkIt.ttf') format('truetype');
+}
+
+@font-face {
 	font-family: Open Sans;
 	font-weight: bold;
 	font-style: normal;
@@ -210,6 +217,41 @@
 }
 
 @font-face {
+	font-family: Helvetica Neue;
+	font-weight: bold italic;
+	font-style: normal;
+	src: url('fonts/HelveticaNeueBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: Helvetica Neue;
+	font-weight: normal;
+	font-style: italic;
+	src: url('fonts/HelveticaNeueItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: Helvetica Neue;
+	font-weight: light;
+	font-style: normal;
+	src: url('fonts/HelveticaNeueLight.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: Helvetica Neue;
+	font-weight: light italic;
+	font-style: normal;
+	src: url('fonts/HelveticaNeueLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: Helvetica Neue;
+	font-weight: medium;
+	font-style: normal;
+	src: url('fonts/HelveticaNeueMedium.ttf') format('truetype');
+}
+
+@font-face {
 	font-family: Lato;
 	font-weight: bold;
 	font-style: normal;
@@ -261,6 +303,13 @@
 	src: url('fonts/LobsterTwo-Regular.eot');
 	src: url('fonts/LobsterTwo-Regular.eot?#iefix') format('embedded-opentype'),
 	     url('fonts/LobsterTwo-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: Helvetica Neue;
+	font-weight: ultralight;
+	font-style: normal;
+	src: url('fonts/HelveticaNeueUltraLight.ttf') format('truetype');
 }
 
 @font-face {
