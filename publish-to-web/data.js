@@ -1,48 +1,48 @@
 klynt.data = {
     "aliases": {
         "aliasToId": {
-            "Risposta_sbagliata_A_REAL": "919E77E0-AEE6-4778-710D-32F99B57DE8C",
-            "Vero_Falso_4_REAL": "B45AF92C-7592-01AF-5A8E-33332ACAAAD8",
-            "Schermata_vuota_con_sfondo": "BE88ED9B-CE3E-DF04-D257-330132CB1F2D",
-            "Errore_vero_falso_1_REAL": "AF881154-2C53-C884-9EEA-2E7CB1684D4C",
-            "Quiz_4_REAL": "E00CADDA-C37A-83AA-5AAD-321CEB5587CD",
-            "Quiz_1_REAL": "1067DBD1-025B-CD0C-7C5E-F0EAC01D12F3",
-            "Errore_vero_falso_3_REAL": "5C36ACDD-7702-F3D8-DCCF-3330F20936C8",
-            "Vero_Falso_2_SISTEMARE": "7DB22450-E0D5-541A-4AF5-3331147B4F25",
-            "Vero_Falso_3_SISTEMARE": "7792F56A-E889-614B-3D0F-3331571F254D",
-            "Quiz_5_REAL": "D8ED231B-43F4-F3BC-19C1-3358503E16E9",
-            "Vero_Falso_1_REAL": "E50C8990-D894-99B0-91B9-F104B4169797",
-            "Errore_1_REAL": "2E7584B8-8541-A4F9-0735-F0F880716A0C",
-            "Errore_5.3": "EAF00619-FE64-2FD8-9779-3381D830B9CA",
-            "Home": "159CE1D0-9532-B4C5-C0CF-F0E7CE9BFB98",
-            "Errore_vero_falso_2_REAL": "E6CF91A6-5718-360C-9C5C-3330D7D2F73D",
-            "Errore_4.1": "AE85B9B9-70C3-040B-1AB9-3356DD04AD9C",
-            "Terminale": "ACC656F0-F5F2-A402-7C02-0A9C63175536",
-            "Errore_vero_falso_4_REAL": "60D54B99-7217-999B-52C2-33331FE95E54",
             "Hai_vinto": "2957910C-27EC-5A9F-1548-F113D24BB74B",
-            "Quiz_2_REAL": "A7A855F5-735D-00FE-DAC3-3210708FEFF7"
+            "Errore_2": "919E77E0-AEE6-4778-710D-32F99B57DE8C",
+            "Quiz_1": "1067DBD1-025B-CD0C-7C5E-F0EAC01D12F3",
+            "Errore_1": "2E7584B8-8541-A4F9-0735-F0F880716A0C",
+            "Quiz_5": "D8ED231B-43F4-F3BC-19C1-3358503E16E9",
+            "Errore_vero_falso_2": "E6CF91A6-5718-360C-9C5C-3330D7D2F73D",
+            "Home": "159CE1D0-9532-B4C5-C0CF-F0E7CE9BFB98",
+            "Quiz_2": "A7A855F5-735D-00FE-DAC3-3210708FEFF7",
+            "Vero_Falso_3": "7792F56A-E889-614B-3D0F-3331571F254D",
+            "Quiz_4": "E00CADDA-C37A-83AA-5AAD-321CEB5587CD",
+            "Errore_vero_falso_4": "60D54B99-7217-999B-52C2-33331FE95E54",
+            "Vero_Falso_1": "E50C8990-D894-99B0-91B9-F104B4169797",
+            "Errore_5": "EAF00619-FE64-2FD8-9779-3381D830B9CA",
+            "Errore_4": "AE85B9B9-70C3-040B-1AB9-3356DD04AD9C",
+            "Errore_vero_falso_1_": "AF881154-2C53-C884-9EEA-2E7CB1684D4C",
+            "Vero_Falso_2": "7DB22450-E0D5-541A-4AF5-3331147B4F25",
+            "Schermata_vuota_con_sfondo": "BE88ED9B-CE3E-DF04-D257-330132CB1F2D",
+            "Errore_vero_falso_3": "5C36ACDD-7702-F3D8-DCCF-3330F20936C8",
+            "Vero_Falso_4": "B45AF92C-7592-01AF-5A8E-33332ACAAAD8",
+            "Terminale": "ACC656F0-F5F2-A402-7C02-0A9C63175536"
         },
         "idToAlias": {
-            "E00CADDA-C37A-83AA-5AAD-321CEB5587CD": "Quiz_4_REAL",
-            "7DB22450-E0D5-541A-4AF5-3331147B4F25": "Vero_Falso_2_SISTEMARE",
-            "1067DBD1-025B-CD0C-7C5E-F0EAC01D12F3": "Quiz_1_REAL",
-            "60D54B99-7217-999B-52C2-33331FE95E54": "Errore_vero_falso_4_REAL",
-            "919E77E0-AEE6-4778-710D-32F99B57DE8C": "Risposta_sbagliata_A_REAL",
+            "E00CADDA-C37A-83AA-5AAD-321CEB5587CD": "Quiz_4",
+            "919E77E0-AEE6-4778-710D-32F99B57DE8C": "Errore_2",
+            "1067DBD1-025B-CD0C-7C5E-F0EAC01D12F3": "Quiz_1",
+            "EAF00619-FE64-2FD8-9779-3381D830B9CA": "Errore_5",
+            "7DB22450-E0D5-541A-4AF5-3331147B4F25": "Vero_Falso_2",
             "ACC656F0-F5F2-A402-7C02-0A9C63175536": "Terminale",
-            "EAF00619-FE64-2FD8-9779-3381D830B9CA": "Errore_5.3",
-            "2E7584B8-8541-A4F9-0735-F0F880716A0C": "Errore_1_REAL",
-            "BE88ED9B-CE3E-DF04-D257-330132CB1F2D": "Schermata_vuota_con_sfondo",
-            "A7A855F5-735D-00FE-DAC3-3210708FEFF7": "Quiz_2_REAL",
-            "AE85B9B9-70C3-040B-1AB9-3356DD04AD9C": "Errore_4.1",
-            "E6CF91A6-5718-360C-9C5C-3330D7D2F73D": "Errore_vero_falso_2_REAL",
-            "E50C8990-D894-99B0-91B9-F104B4169797": "Vero_Falso_1_REAL",
-            "7792F56A-E889-614B-3D0F-3331571F254D": "Vero_Falso_3_SISTEMARE",
-            "5C36ACDD-7702-F3D8-DCCF-3330F20936C8": "Errore_vero_falso_3_REAL",
+            "2E7584B8-8541-A4F9-0735-F0F880716A0C": "Errore_1",
+            "A7A855F5-735D-00FE-DAC3-3210708FEFF7": "Quiz_2",
+            "60D54B99-7217-999B-52C2-33331FE95E54": "Errore_vero_falso_4",
+            "AE85B9B9-70C3-040B-1AB9-3356DD04AD9C": "Errore_4",
+            "5C36ACDD-7702-F3D8-DCCF-3330F20936C8": "Errore_vero_falso_3",
+            "E6CF91A6-5718-360C-9C5C-3330D7D2F73D": "Errore_vero_falso_2",
+            "7792F56A-E889-614B-3D0F-3331571F254D": "Vero_Falso_3",
+            "E50C8990-D894-99B0-91B9-F104B4169797": "Vero_Falso_1",
+            "2957910C-27EC-5A9F-1548-F113D24BB74B": "Hai_vinto",
             "159CE1D0-9532-B4C5-C0CF-F0E7CE9BFB98": "Home",
-            "B45AF92C-7592-01AF-5A8E-33332ACAAAD8": "Vero_Falso_4_REAL",
-            "AF881154-2C53-C884-9EEA-2E7CB1684D4C": "Errore_vero_falso_1_REAL",
-            "D8ED231B-43F4-F3BC-19C1-3358503E16E9": "Quiz_5_REAL",
-            "2957910C-27EC-5A9F-1548-F113D24BB74B": "Hai_vinto"
+            "BE88ED9B-CE3E-DF04-D257-330132CB1F2D": "Schermata_vuota_con_sfondo",
+            "AF881154-2C53-C884-9EEA-2E7CB1684D4C": "Errore_vero_falso_1_",
+            "B45AF92C-7592-01AF-5A8E-33332ACAAAD8": "Vero_Falso_4",
+            "D8ED231B-43F4-F3BC-19C1-3358503E16E9": "Quiz_5"
         }
     },
     "footer": {
@@ -125,7 +125,7 @@ klynt.data = {
             "thumbnail": "Medias/Thumbnails/Twitter_Logo_Blue.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "Quiz 4 REAL",
+            "title": "Quiz 4",
             "images": [
                 {
                     "centerY": "0.00",
@@ -431,12 +431,12 @@ klynt.data = {
             ],
             "id": "E00CADDA-C37A-83AA-5AAD-321CEB5587CD"
         },
-        "7DB22450-E0D5-541A-4AF5-3331147B4F25": {
+        "919E77E0-AEE6-4778-710D-32F99B57DE8C": {
             "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/Twitter_Logo_Blue.png.png",
+            "thumbnail": "Medias/Thumbnails/Twitter2.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "Vero/Falso 2 SISTEMARE",
+            "title": "Errore 2",
             "images": [
                 {
                     "centerY": "0.00",
@@ -444,7 +444,7 @@ klynt.data = {
                     "dataend": "00:31.00",
                     "src": "Medias/Photos/Twitter2.png",
                     "zIndex": 0,
-                    "id": "019A7FE2-4265-DA1C-9788-3C861AC34321",
+                    "id": "CF08764F-DCE4-975F-DF45-3C7AB5C79BFE",
                     "mediaHeight": 1425,
                     "transitionIn": {
                         "type": "fade",
@@ -455,177 +455,118 @@ klynt.data = {
                     "mediaWidth": 2560,
                     "scales": true,
                     "duration": "00:31.00",
-                    "centerX": "-1.23",
+                    "centerX": "0.00",
                     "width": "970.00",
                     "height": "545.00",
                     "name": "Twitter2.png",
                     "databegin": "00:00.00"
                 }
             ],
-            "x": 370.75,
+            "x": 28.85,
             "size": "medium",
-            "y": 1117.15,
-            "backgroundColor": "rgba(0,0,0,0.75)",
+            "y": 420.25,
+            "backgroundColor": "rgba(0,0,0,1)",
             "duration": 30,
             "color": "rgba(0,0,0,1)",
             "texts": [
                 {
-                    "centerY": "101.11",
-                    "dataend": "00:31.00",
-                    "type": "txt-Default",
-                    "text": "<p style=\"text-align: center;\"><span style=\"font-size: 30pt; color: #666666; font-family: Roboto;\">FALSO</span></p>",
-                    "name": "Text 3",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "rollOver": [
-                        {
-                            "value": "rgba(153,153,153,0.5)",
-                            "easing": "easeInOutSine",
-                            "type": "style",
-                            "duration": 0.5,
-                            "target": "self",
-                            "reversible": true,
-                            "delay": 0,
-                            "name": "background"
-                        }
-                    ],
-                    "zIndex": 1,
-                    "rollOut": [
-                        {
-                            "value": "rgba(0,0,0,0)",
-                            "easing": "linear",
-                            "type": "style",
-                            "duration": 0.5,
-                            "target": "self",
-                            "reversible": false,
-                            "delay": 0,
-                            "name": "background"
-                        }
-                    ],
-                    "scales": true,
-                    "duration": "00:26.99",
-                    "centerX": "212.09",
-                    "width": "178.00",
-                    "height": "59.23",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "E6CF91A6-5718-360C-9C5C-3330D7D2F73D",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "4B7D2AD6-CA15-CA6F-C68D-333BE4C36F81",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "id": "53CE382A-932B-2F97-F972-3331147D924F",
-                    "databegin": "00:04.01"
-                },
-                {
-                    "centerY": "100.30",
-                    "dataend": "00:31.00",
-                    "type": "txt-Default",
-                    "text": "<p style=\"text-align: center;\"><span style=\"font-size: 30pt; color: #666666; font-family: Roboto;\">VERO</span></p>",
-                    "name": "Text 3",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "rollOver": [
-                        {
-                            "value": "rgba(153,153,153,0.5)",
-                            "easing": "easeInOutSine",
-                            "type": "style",
-                            "duration": 0.5,
-                            "target": "self",
-                            "reversible": true,
-                            "delay": 0,
-                            "name": "background"
-                        }
-                    ],
-                    "zIndex": 2,
-                    "rollOut": [
-                        {
-                            "value": "rgba(0,0,0,0)",
-                            "easing": "linear",
-                            "type": "style",
-                            "duration": 0.5,
-                            "target": "self",
-                            "reversible": false,
-                            "delay": 0,
-                            "name": "background"
-                        }
-                    ],
-                    "scales": true,
-                    "duration": "00:26.99",
-                    "centerX": "-13.85",
-                    "width": "178.00",
-                    "height": "60.99",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "7792F56A-E889-614B-3D0F-3331571F254D",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "39733C38-6B3A-E0DA-A42B-333ED2D522BF",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "id": "53842CAE-1424-F57B-DA45-3331147E52D2",
-                    "databegin": "00:04.01"
-                },
-                {
-                    "centerY": "-59.74",
+                    "centerY": "21.08",
                     "dataend": "00:31.00",
                     "type": "txt-Paragraph",
-                    "text": "<p style=\"text-align: center;\"><span style=\"color: #666666; font-family: Roboto; font-size: 13pt;\"><span class=\"Apple-style-span\" style=\"line-height: 10px;\">Quando visualizzi i nostri contenuti su siti Web di terze parti che integrano contenuti Twitter come timeline incorporate o pulsanti Tweet, potremmo ricevere dati di registro che includono la pagina web visitata.&nbsp;</span></span></p>",
+                    "text": "<p><span style=\"color: #666666; font-size: 13pt; font-family: Roboto;\"><span class=\"Apple-style-span\" style=\"line-height: 15px;\">Nelle regole di Twitter, sottoparagrafo Utilizzo improprio di nomi utente si trova:</span></span></p>\n<p><span style=\"color: #666666; font-size: medium;\"><span class=\"Apple-style-span\" style=\"font-size: 13px; line-height: 15px;\"><br /><span style=\"font-size: 13pt; font-family: Roboto;\">\"Appropriazione abusiva di nomi utente: non puoi appropriarti abusivamente di nomi utente. Ecco alcuni fattori che prendiamo in considerazione per determinare se una condotta costituisce appropriazione abusiva di nomi utente:</span><br /><span style=\"font-size: 13pt; font-family: Roboto;\">&bull; il numero di account creati;</span><br /><span style=\"font-size: 13pt; font-family: Roboto;\">&bull; la creazione di account con il fine di impedire ad altri utenti di utilizzare quei nomi di account;</span><br /><span style=\"font-size: 13pt; font-family: Roboto;\">&bull; la creazione di account con il fine di venderli;</span><br /><span style=\"font-size: 13pt; font-family: Roboto;\">&bull; l'utilizzo di feed di contenuti di terze parti per aggiornare e mantenere account con i nomi di queste terze parti\"</span><br /></span></span></p>",
                     "name": "Text 2",
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
                     },
-                    "zIndex": 3,
+                    "zIndex": 1,
                     "scales": true,
-                    "duration": "00:28.71",
-                    "centerX": "116.96",
-                    "width": "656.34",
-                    "height": "166.65",
-                    "id": "480F2527-7A4D-C29C-7494-3331147EEF52",
-                    "databegin": "00:02.29"
+                    "duration": "00:30.15",
+                    "centerX": "114.39",
+                    "width": "655.24",
+                    "height": "246.85",
+                    "id": "943AC15C-1A00-F108-8239-32F99B593EB7",
+                    "databegin": "00:00.85"
                 },
                 {
-                    "centerY": "-199.36",
+                    "centerY": "-113.71",
                     "dataend": "00:31.00",
-                    "type": "txt-Title-2",
-                    "text": "<p><span style=\"color: #666666; font-size: 13pt; font-family: Roboto;\">Vero o Falso?</span></p>",
+                    "type": "txt-Paragraph",
+                    "text": "<p><span style=\"font-family: Roboto;\"><em><span style=\"color: #666666; font-size: 13pt;\">Ooops... Risposta sbagliata... Forse un ripasso ti pu&ograve; fare comodo, dai un'occhiata!</span></em></span></p>",
                     "name": "Text 1",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 2,
+                    "scales": true,
+                    "duration": "00:30.15",
+                    "centerX": "118.62",
+                    "width": "660.27",
+                    "height": "60.31",
+                    "id": "5BD550FB-491B-DAF9-CF9F-32F99B59C5B8",
+                    "databegin": "00:00.85"
+                },
+                {
+                    "centerY": "24.27",
+                    "dataend": "00:31.00",
+                    "type": "txt-Default",
+                    "text": "<p><span class=\"Apple-style-span\" style=\"color: #666666; line-height: 17px; font-size: 13pt; font-family: Roboto;\">Per il testo completo clicca&nbsp;<span style=\"text-decoration: underline; color: #003366;\"><a href=\"https://help.twitter.com/it/rules-and-policies/twitter-rules\"><span style=\"text-decoration: underline; color: #003366;\">qui</span></a></span></span></p>",
+                    "name": "Text 3",
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
                     },
                     "zIndex": 4,
                     "scales": true,
-                    "duration": "00:30.09",
-                    "centerX": "-7.28",
-                    "width": "300.99",
-                    "height": "50.29",
-                    "id": "A70AA20F-8336-9528-92A3-3331147E4F02",
-                    "databegin": "00:00.91"
+                    "duration": "00:30.15",
+                    "centerX": "-338.96",
+                    "width": "198.85",
+                    "height": "149.25",
+                    "id": "1044574E-52E5-F1F6-8A8D-3CCEA5ED6106",
+                    "databegin": "00:00.85"
                 }
             ],
-            "id": "7DB22450-E0D5-541A-4AF5-3331147B4F25"
+            "id": "919E77E0-AEE6-4778-710D-32F99B57DE8C",
+            "buttons": [
+                {
+                    "centerY": "190.87",
+                    "dataend": "00:31.00",
+                    "type": "klynt-button-3",
+                    "zIndex": 3,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "A7A855F5-735D-00FE-DAC3-3210708FEFF7",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "A31FB8CF-48A0-8F1F-27C8-32FC0B835C07",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "scales": true,
+                    "duration": "00:28.92",
+                    "centerX": "236.31",
+                    "width": "196.40",
+                    "height": "49.10",
+                    "label": "Riprova",
+                    "id": "AAB32FDA-F0C0-CFB7-A0BA-32F99B5A92C8",
+                    "databegin": "00:02.08"
+                }
+            ]
         },
         "1067DBD1-025B-CD0C-7C5E-F0EAC01D12F3": {
             "hideInMindmap": false,
             "thumbnail": "Medias/Thumbnails/Twitter_Logo_Blue.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "Quiz 1 REAL",
+            "title": "Quiz 1",
             "images": [
                 {
                     "centerY": "0.00",
@@ -995,304 +936,12 @@ klynt.data = {
             ],
             "id": "1067DBD1-025B-CD0C-7C5E-F0EAC01D12F3"
         },
-        "60D54B99-7217-999B-52C2-33331FE95E54": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/Twitter2.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "Errore vero/falso 4 REAL",
-            "images": [
-                {
-                    "centerY": "1.23",
-                    "verticalAlign": "top",
-                    "dataend": "00:31.00",
-                    "src": "Medias/Photos/Twitter2.png",
-                    "zIndex": 0,
-                    "id": "503EB91A-1131-936D-2E8B-3C976AB9FA36",
-                    "mediaHeight": 1425,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "horizontalAlign": "left",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 2560,
-                    "scales": true,
-                    "duration": "00:31.00",
-                    "centerX": "0.00",
-                    "width": "970.00",
-                    "height": "545.00",
-                    "name": "Twitter2.png",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 77.5,
-            "size": "medium",
-            "y": 1482.2,
-            "backgroundColor": "rgba(0,0,0,1)",
-            "duration": 30,
-            "color": "rgba(0,0,0,1)",
-            "texts": [
-                {
-                    "centerY": "-127.87",
-                    "dataend": "00:31.00",
-                    "type": "txt-Paragraph",
-                    "text": "<p><span style=\"font-family: Roboto;\"><em><span style=\"color: #666666; font-size: 13pt;\">Ooops... Risposta sbagliata... Forse un ripasso ti pu&ograve; fare comodo, dai un'occhiata!</span></em></span></p>",
-                    "name": "Text 1",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 1,
-                    "scales": true,
-                    "duration": "00:30.15",
-                    "centerX": "119.42",
-                    "width": "657.77",
-                    "height": "44.36",
-                    "id": "1B3D7554-E4F6-4EE1-23CB-5B1F2AAD3526",
-                    "databegin": "00:00.85"
-                },
-                {
-                    "centerY": "47.45",
-                    "dataend": "00:31.00",
-                    "type": "txt-Paragraph",
-                    "text": "<p><span style=\"font-size: 12pt; color: #666666; font-family: Roboto;\">Nell&rsquo;informativa sulla privacy, paragrafo 3.5 si trova: </span></p>\n<p><span style=\"font-size: 12pt; color: #666666; font-family: Roboto;\">&nbsp;</span></p>\n<p><span style=\"color: #666666; font-size: 12pt; font-family: Roboto;\">\"Condividiamo o divulghiamo dati non personali, come informazioni aggregate come il numero totale di volte in cui le persone si sono impegnate con un Tweet, il numero di persone che hanno cliccato su un particolare link o hanno votato in un sondaggio in un Tweet (anche se solo uno ha fatto) , gli argomenti su cui tweeting le persone si trovano in una determinata posizione o segnala agli inserzionisti su quante persone hanno visto o fatto clic sui loro annunci.\"</span></p>",
-                    "name": "Text 2",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 2,
-                    "scales": true,
-                    "duration": "00:29.31",
-                    "centerX": "116.95",
-                    "width": "646.76",
-                    "height": "233.72",
-                    "id": "FCA80901-E811-B6B5-EBF8-33331FEB7AFF",
-                    "databegin": "00:01.69"
-                },
-                {
-                    "centerY": "22.59",
-                    "dataend": "00:31.00",
-                    "type": "txt-Default",
-                    "text": "<p><span class=\"Apple-style-span\" style=\"color: #666666; line-height: 17px; font-family: Roboto; font-size: 13pt;\">Per il testo completo clicca&nbsp;<span style=\"text-decoration: underline; color: #003366;\"><a href=\"https://twitter.com/it/privacy\"><span style=\"text-decoration: underline; color: #003366;\">qui</span></a></span></span></p>",
-                    "name": "Text 3",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 4,
-                    "scales": true,
-                    "duration": "00:30.11",
-                    "centerX": "-338.96",
-                    "width": "198.85",
-                    "height": "145.90",
-                    "id": "625A9009-54A5-D3CC-602C-3CCA11F3B343",
-                    "databegin": "00:00.89"
-                }
-            ],
-            "id": "60D54B99-7217-999B-52C2-33331FE95E54",
-            "buttons": [
-                {
-                    "centerY": "197.50",
-                    "dataend": "00:31.00",
-                    "type": "klynt-button-3",
-                    "zIndex": 3,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "B45AF92C-7592-01AF-5A8E-33332ACAAAD8",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "0CCDD5CA-D8F2-7CE6-1544-334F0033F70D",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "scales": true,
-                    "duration": "00:27.06",
-                    "centerX": "329.20",
-                    "width": "220.76",
-                    "height": "55.19",
-                    "label": "Riprova",
-                    "id": "751900C0-5318-F8A9-EE87-33331FEB515F",
-                    "databegin": "00:03.94"
-                }
-            ]
-        },
-        "919E77E0-AEE6-4778-710D-32F99B57DE8C": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/Twitter2.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "Risposta sbagliata A REAL",
-            "images": [
-                {
-                    "centerY": "0.00",
-                    "verticalAlign": "top",
-                    "dataend": "00:31.00",
-                    "src": "Medias/Photos/Twitter2.png",
-                    "zIndex": 0,
-                    "id": "CF08764F-DCE4-975F-DF45-3C7AB5C79BFE",
-                    "mediaHeight": 1425,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "horizontalAlign": "left",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 2560,
-                    "scales": true,
-                    "duration": "00:31.00",
-                    "centerX": "0.00",
-                    "width": "970.00",
-                    "height": "545.00",
-                    "name": "Twitter2.png",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 28.85,
-            "size": "medium",
-            "y": 420.25,
-            "backgroundColor": "rgba(0,0,0,1)",
-            "duration": 30,
-            "color": "rgba(0,0,0,1)",
-            "texts": [
-                {
-                    "centerY": "21.08",
-                    "dataend": "00:31.00",
-                    "type": "txt-Paragraph",
-                    "text": "<p><span style=\"color: #666666; font-size: 13pt; font-family: Roboto;\"><span class=\"Apple-style-span\" style=\"line-height: 15px;\">Nelle regole di Twitter, sottoparagrafo Utilizzo improprio di nomi utente si trova:</span></span></p>\n<p><span style=\"color: #666666; font-size: medium;\"><span class=\"Apple-style-span\" style=\"font-size: 13px; line-height: 15px;\"><br /><span style=\"font-size: 13pt; font-family: Roboto;\">\"Appropriazione abusiva di nomi utente: non puoi appropriarti abusivamente di nomi utente. Ecco alcuni fattori che prendiamo in considerazione per determinare se una condotta costituisce appropriazione abusiva di nomi utente:</span><br /><span style=\"font-size: 13pt; font-family: Roboto;\">&bull; il numero di account creati;</span><br /><span style=\"font-size: 13pt; font-family: Roboto;\">&bull; la creazione di account con il fine di impedire ad altri utenti di utilizzare quei nomi di account;</span><br /><span style=\"font-size: 13pt; font-family: Roboto;\">&bull; la creazione di account con il fine di venderli;</span><br /><span style=\"font-size: 13pt; font-family: Roboto;\">&bull; l'utilizzo di feed di contenuti di terze parti per aggiornare e mantenere account con i nomi di queste terze parti\"</span><br /></span></span></p>",
-                    "name": "Text 2",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 1,
-                    "scales": true,
-                    "duration": "00:30.15",
-                    "centerX": "114.39",
-                    "width": "655.24",
-                    "height": "246.85",
-                    "id": "943AC15C-1A00-F108-8239-32F99B593EB7",
-                    "databegin": "00:00.85"
-                },
-                {
-                    "centerY": "-113.71",
-                    "dataend": "00:31.00",
-                    "type": "txt-Paragraph",
-                    "text": "<p><span style=\"font-family: Roboto;\"><em><span style=\"color: #666666; font-size: 13pt;\">Ooops... Risposta sbagliata... Forse un ripasso ti pu&ograve; fare comodo, dai un'occhiata!</span></em></span></p>",
-                    "name": "Text 1",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 2,
-                    "scales": true,
-                    "duration": "00:30.15",
-                    "centerX": "118.62",
-                    "width": "660.27",
-                    "height": "60.31",
-                    "id": "5BD550FB-491B-DAF9-CF9F-32F99B59C5B8",
-                    "databegin": "00:00.85"
-                },
-                {
-                    "centerY": "24.27",
-                    "dataend": "00:31.00",
-                    "type": "txt-Default",
-                    "text": "<p><span class=\"Apple-style-span\" style=\"color: #666666; line-height: 17px; font-size: 13pt; font-family: Roboto;\">Per il testo completo clicca&nbsp;<span style=\"text-decoration: underline; color: #003366;\"><a href=\"https://help.twitter.com/it/rules-and-policies/twitter-rules\"><span style=\"text-decoration: underline; color: #003366;\">qui</span></a></span></span></p>",
-                    "name": "Text 3",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 4,
-                    "scales": true,
-                    "duration": "00:30.15",
-                    "centerX": "-338.96",
-                    "width": "198.85",
-                    "height": "149.25",
-                    "id": "1044574E-52E5-F1F6-8A8D-3CCEA5ED6106",
-                    "databegin": "00:00.85"
-                }
-            ],
-            "id": "919E77E0-AEE6-4778-710D-32F99B57DE8C",
-            "buttons": [
-                {
-                    "centerY": "190.87",
-                    "dataend": "00:31.00",
-                    "type": "klynt-button-3",
-                    "zIndex": 3,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "A7A855F5-735D-00FE-DAC3-3210708FEFF7",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "A31FB8CF-48A0-8F1F-27C8-32FC0B835C07",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "scales": true,
-                    "duration": "00:28.92",
-                    "centerX": "236.31",
-                    "width": "196.40",
-                    "height": "49.10",
-                    "label": "Riprova",
-                    "id": "AAB32FDA-F0C0-CFB7-A0BA-32F99B5A92C8",
-                    "databegin": "00:02.08"
-                }
-            ]
-        },
-        "ACC656F0-F5F2-A402-7C02-0A9C63175536": {
-            "hideInMindmap": false,
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "Terminale",
-            "iframes": [
-                {
-                    "centerY": "0.00",
-                    "dataend": "00:31.00",
-                    "zIndex": 0,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "scales": true,
-                    "duration": "00:29.90",
-                    "centerX": "0.00",
-                    "width": "950.00",
-                    "code": "<iframe src=\"https://antocr.github.io/Terminal/\" style=\"border:0px #ffffff none;\" name=\"myiFrame\" scrolling=\"yes\" frameborder=\"1\" marginheight=\"0px\" marginwidth=\"0px\" height=\"400px\" width=\"950px\" allowfullscreen></iframe>",
-                    "height": "480.00",
-                    "id": "A6410EC2-766D-5439-2339-0A9C6319E23D",
-                    "databegin": "00:01.10"
-                }
-            ],
-            "x": 680.7833333333334,
-            "size": "large",
-            "y": 574.9,
-            "backgroundColor": "rgba(0,0,0,1)",
-            "duration": 30,
-            "color": "rgba(0,0,0,1)",
-            "id": "ACC656F0-F5F2-A402-7C02-0A9C63175536"
-        },
         "EAF00619-FE64-2FD8-9779-3381D830B9CA": {
             "hideInMindmap": false,
             "thumbnail": "Medias/Thumbnails/Twitter2.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "Errore 5.3",
+            "title": "Errore 5",
             "images": [
                 {
                     "centerY": "0.00",
@@ -1425,12 +1074,233 @@ klynt.data = {
                 }
             ]
         },
+        "7DB22450-E0D5-541A-4AF5-3331147B4F25": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/Twitter_Logo_Blue.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "Vero/Falso 2",
+            "images": [
+                {
+                    "centerY": "0.00",
+                    "verticalAlign": "top",
+                    "dataend": "00:31.00",
+                    "src": "Medias/Photos/Twitter2.png",
+                    "zIndex": 0,
+                    "id": "019A7FE2-4265-DA1C-9788-3C861AC34321",
+                    "mediaHeight": 1425,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "left",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 2560,
+                    "scales": true,
+                    "duration": "00:31.00",
+                    "centerX": "-2.35",
+                    "width": "970.00",
+                    "height": "545.00",
+                    "name": "Twitter2.png",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 370.75,
+            "size": "medium",
+            "y": 1117.15,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 30,
+            "color": "rgba(0,0,0,1)",
+            "texts": [
+                {
+                    "centerY": "101.11",
+                    "dataend": "00:31.00",
+                    "type": "txt-Default",
+                    "text": "<p style=\"text-align: center;\"><span style=\"font-size: 30pt; color: #666666; font-family: Roboto;\">FALSO</span></p>",
+                    "name": "Text 3",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "rgba(153,153,153,0.5)",
+                            "easing": "easeInOutSine",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "self",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "background"
+                        }
+                    ],
+                    "zIndex": 1,
+                    "rollOut": [
+                        {
+                            "value": "rgba(0,0,0,0)",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "self",
+                            "reversible": false,
+                            "delay": 0,
+                            "name": "background"
+                        }
+                    ],
+                    "scales": true,
+                    "duration": "00:26.99",
+                    "centerX": "212.09",
+                    "width": "178.00",
+                    "height": "59.23",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "E6CF91A6-5718-360C-9C5C-3330D7D2F73D",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "4B7D2AD6-CA15-CA6F-C68D-333BE4C36F81",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "id": "53CE382A-932B-2F97-F972-3331147D924F",
+                    "databegin": "00:04.01"
+                },
+                {
+                    "centerY": "100.30",
+                    "dataend": "00:31.00",
+                    "type": "txt-Default",
+                    "text": "<p style=\"text-align: center;\"><span style=\"font-size: 30pt; color: #666666; font-family: Roboto;\">VERO</span></p>",
+                    "name": "Text 3",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "rgba(153,153,153,0.5)",
+                            "easing": "easeInOutSine",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "self",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "background"
+                        }
+                    ],
+                    "zIndex": 2,
+                    "rollOut": [
+                        {
+                            "value": "rgba(0,0,0,0)",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "self",
+                            "reversible": false,
+                            "delay": 0,
+                            "name": "background"
+                        }
+                    ],
+                    "scales": true,
+                    "duration": "00:26.99",
+                    "centerX": "-13.85",
+                    "width": "178.00",
+                    "height": "60.99",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "7792F56A-E889-614B-3D0F-3331571F254D",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "39733C38-6B3A-E0DA-A42B-333ED2D522BF",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "id": "53842CAE-1424-F57B-DA45-3331147E52D2",
+                    "databegin": "00:04.01"
+                },
+                {
+                    "centerY": "-59.74",
+                    "dataend": "00:31.00",
+                    "type": "txt-Paragraph",
+                    "text": "<p style=\"text-align: center;\"><span style=\"color: #666666; font-family: Roboto; font-size: 13pt;\"><span class=\"Apple-style-span\" style=\"line-height: 10px;\">Quando visualizzi i nostri contenuti su siti Web di terze parti che integrano contenuti Twitter come timeline incorporate o pulsanti Tweet, potremmo ricevere dati di registro che includono la pagina web visitata.&nbsp;</span></span></p>",
+                    "name": "Text 2",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 3,
+                    "scales": true,
+                    "duration": "00:28.71",
+                    "centerX": "116.96",
+                    "width": "656.34",
+                    "height": "166.65",
+                    "id": "480F2527-7A4D-C29C-7494-3331147EEF52",
+                    "databegin": "00:02.29"
+                },
+                {
+                    "centerY": "-199.36",
+                    "dataend": "00:31.00",
+                    "type": "txt-Title-2",
+                    "text": "<p><span style=\"color: #666666; font-size: 13pt; font-family: Roboto;\">Vero o Falso?</span></p>",
+                    "name": "Text 1",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 4,
+                    "scales": true,
+                    "duration": "00:30.09",
+                    "centerX": "-7.28",
+                    "width": "300.99",
+                    "height": "50.29",
+                    "id": "A70AA20F-8336-9528-92A3-3331147E4F02",
+                    "databegin": "00:00.91"
+                }
+            ],
+            "id": "7DB22450-E0D5-541A-4AF5-3331147B4F25"
+        },
+        "ACC656F0-F5F2-A402-7C02-0A9C63175536": {
+            "hideInMindmap": false,
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "Terminale",
+            "iframes": [
+                {
+                    "centerY": "0.00",
+                    "dataend": "00:31.00",
+                    "zIndex": 0,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "scales": true,
+                    "duration": "00:29.90",
+                    "centerX": "0.00",
+                    "width": "950.00",
+                    "code": "<iframe src=\"https://antocr.github.io/Terminal/\" style=\"border:0px #ffffff none;\" name=\"myiFrame\" scrolling=\"yes\" frameborder=\"1\" marginheight=\"0px\" marginwidth=\"0px\" height=\"400px\" width=\"950px\" allowfullscreen></iframe>",
+                    "height": "480.00",
+                    "id": "A6410EC2-766D-5439-2339-0A9C6319E23D",
+                    "databegin": "00:01.10"
+                }
+            ],
+            "x": 680.7833333333334,
+            "size": "large",
+            "y": 574.9,
+            "backgroundColor": "rgba(0,0,0,1)",
+            "duration": 30,
+            "color": "rgba(0,0,0,1)",
+            "id": "ACC656F0-F5F2-A402-7C02-0A9C63175536"
+        },
         "2E7584B8-8541-A4F9-0735-F0F880716A0C": {
             "hideInMindmap": false,
             "thumbnail": "Medias/Thumbnails/Twitter2.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "Errore 1 REAL",
+            "title": "Errore 1",
             "images": [
                 {
                     "centerY": "0.00",
@@ -1559,25 +1429,12 @@ klynt.data = {
                 }
             ]
         },
-        "BE88ED9B-CE3E-DF04-D257-330132CB1F2D": {
-            "hideInMindmap": false,
-            "title": "Schermata vuota con sfondo",
-            "y": 111.6,
-            "hideThumbnailInMindmap": false,
-            "id": "BE88ED9B-CE3E-DF04-D257-330132CB1F2D",
-            "hideTitleInMindmap": false,
-            "x": 1511.55,
-            "size": "medium",
-            "backgroundColor": "rgba(0,0,0,1)",
-            "duration": 30,
-            "color": "rgba(0,0,0,1)"
-        },
         "A7A855F5-735D-00FE-DAC3-3210708FEFF7": {
             "hideInMindmap": false,
             "thumbnail": "Medias/Thumbnails/Twitter_Logo_Blue.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "Quiz 2 REAL",
+            "title": "Quiz 2",
             "images": [
                 {
                     "centerY": "0.00",
@@ -1986,33 +1843,167 @@ klynt.data = {
                     "databegin": "00:01.43"
                 },
                 {
-                    "centerY": "-202.61",
+                    "centerY": "-202.17",
                     "dataend": "00:31.00",
                     "type": "txt-Title-2",
-                    "text": "<p></p>\n<p><span style=\"font-family: 'Helvetica Neue';\"><span style=\"color: #666666; font-size: 13pt;\">&nbsp;</span></span></p>",
+                    "text": "<p><span style=\"color: #666666; font-size: 13pt; font-family: Roboto;\"><span class=\"Apple-style-span\" style=\"line-height: 24px;\">Scegli la risposta errata:</span></span></p>",
                     "name": "Text 1",
                     "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "transitionOut": {
                         "type": "fade",
                         "duration": "1"
                     },
                     "zIndex": 6,
                     "scales": true,
                     "duration": "00:30.00",
-                    "centerX": "119.28",
-                    "width": "550.63",
-                    "height": "47.10",
-                    "id": "20174894-B88E-02DD-DA74-321070934F47",
+                    "centerX": "-23.42",
+                    "width": "256.03",
+                    "height": "49.82",
+                    "id": "20A1D3C2-6885-F6B7-6831-60F1112D8A8A",
                     "databegin": "00:01.00"
                 }
             ],
             "id": "A7A855F5-735D-00FE-DAC3-3210708FEFF7"
+        },
+        "60D54B99-7217-999B-52C2-33331FE95E54": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/Twitter2.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "Errore vero/falso 4",
+            "images": [
+                {
+                    "centerY": "1.23",
+                    "verticalAlign": "top",
+                    "dataend": "00:31.00",
+                    "src": "Medias/Photos/Twitter2.png",
+                    "zIndex": 0,
+                    "id": "503EB91A-1131-936D-2E8B-3C976AB9FA36",
+                    "mediaHeight": 1425,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "left",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 2560,
+                    "scales": true,
+                    "duration": "00:31.00",
+                    "centerX": "0.00",
+                    "width": "970.00",
+                    "height": "545.00",
+                    "name": "Twitter2.png",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 77.5,
+            "size": "medium",
+            "y": 1482.2,
+            "backgroundColor": "rgba(0,0,0,1)",
+            "duration": 30,
+            "color": "rgba(0,0,0,1)",
+            "texts": [
+                {
+                    "centerY": "-127.87",
+                    "dataend": "00:31.00",
+                    "type": "txt-Paragraph",
+                    "text": "<p><span style=\"font-family: Roboto;\"><em><span style=\"color: #666666; font-size: 13pt;\">Ooops... Risposta sbagliata... Forse un ripasso ti pu&ograve; fare comodo, dai un'occhiata!</span></em></span></p>",
+                    "name": "Text 1",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 1,
+                    "scales": true,
+                    "duration": "00:30.15",
+                    "centerX": "119.42",
+                    "width": "657.77",
+                    "height": "44.36",
+                    "id": "1B3D7554-E4F6-4EE1-23CB-5B1F2AAD3526",
+                    "databegin": "00:00.85"
+                },
+                {
+                    "centerY": "47.45",
+                    "dataend": "00:31.00",
+                    "type": "txt-Paragraph",
+                    "text": "<p><span style=\"font-size: 12pt; color: #666666; font-family: Roboto;\">Nell&rsquo;informativa sulla privacy, paragrafo 3.5 si trova: </span></p>\n<p><span style=\"font-size: 12pt; color: #666666; font-family: Roboto;\">&nbsp;</span></p>\n<p><span style=\"color: #666666; font-size: 12pt; font-family: Roboto;\">\"Condividiamo o divulghiamo dati non personali, come informazioni aggregate come il numero totale di volte in cui le persone si sono impegnate con un Tweet, il numero di persone che hanno cliccato su un particolare link o hanno votato in un sondaggio in un Tweet (anche se solo uno ha fatto) , gli argomenti su cui tweeting le persone si trovano in una determinata posizione o segnala agli inserzionisti su quante persone hanno visto o fatto clic sui loro annunci.\"</span></p>",
+                    "name": "Text 2",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 2,
+                    "scales": true,
+                    "duration": "00:29.31",
+                    "centerX": "116.95",
+                    "width": "646.76",
+                    "height": "233.72",
+                    "id": "FCA80901-E811-B6B5-EBF8-33331FEB7AFF",
+                    "databegin": "00:01.69"
+                },
+                {
+                    "centerY": "22.59",
+                    "dataend": "00:31.00",
+                    "type": "txt-Default",
+                    "text": "<p><span class=\"Apple-style-span\" style=\"color: #666666; line-height: 17px; font-family: Roboto; font-size: 13pt;\">Per il testo completo clicca&nbsp;<span style=\"text-decoration: underline; color: #003366;\"><a href=\"https://twitter.com/it/privacy\"><span style=\"text-decoration: underline; color: #003366;\">qui</span></a></span></span></p>",
+                    "name": "Text 3",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 4,
+                    "scales": true,
+                    "duration": "00:30.11",
+                    "centerX": "-338.96",
+                    "width": "198.85",
+                    "height": "145.90",
+                    "id": "625A9009-54A5-D3CC-602C-3CCA11F3B343",
+                    "databegin": "00:00.89"
+                }
+            ],
+            "id": "60D54B99-7217-999B-52C2-33331FE95E54",
+            "buttons": [
+                {
+                    "centerY": "197.50",
+                    "dataend": "00:31.00",
+                    "type": "klynt-button-3",
+                    "zIndex": 3,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "B45AF92C-7592-01AF-5A8E-33332ACAAAD8",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "0CCDD5CA-D8F2-7CE6-1544-334F0033F70D",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "scales": true,
+                    "duration": "00:27.06",
+                    "centerX": "329.20",
+                    "width": "220.76",
+                    "height": "55.19",
+                    "label": "Riprova",
+                    "id": "751900C0-5318-F8A9-EE87-33331FEB515F",
+                    "databegin": "00:03.94"
+                }
+            ]
         },
         "AE85B9B9-70C3-040B-1AB9-3356DD04AD9C": {
             "hideInMindmap": false,
             "thumbnail": "Medias/Thumbnails/Twitter2.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "Errore 4.1",
+            "title": "Errore 4",
             "images": [
                 {
                     "centerY": "0.00",
@@ -2137,12 +2128,146 @@ klynt.data = {
                 }
             ]
         },
+        "5C36ACDD-7702-F3D8-DCCF-3330F20936C8": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/Twitter2.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "Errore vero/falso 3",
+            "images": [
+                {
+                    "centerY": "0.00",
+                    "verticalAlign": "top",
+                    "dataend": "00:31.00",
+                    "src": "Medias/Photos/Twitter2.png",
+                    "zIndex": 0,
+                    "id": "FFAB76CF-CBD2-1F99-5A01-3C90B9C1EA93",
+                    "mediaHeight": 1425,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "left",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 2560,
+                    "scales": true,
+                    "duration": "00:31.00",
+                    "centerX": "0.00",
+                    "width": "970.00",
+                    "height": "545.00",
+                    "name": "Twitter2.png",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 123.55,
+            "size": "medium",
+            "y": 1291.15,
+            "backgroundColor": "rgba(0,0,0,1)",
+            "duration": 30,
+            "color": "rgba(0,0,0,1)",
+            "texts": [
+                {
+                    "centerY": "-127.87",
+                    "dataend": "00:31.00",
+                    "type": "txt-Paragraph",
+                    "text": "<p><span style=\"font-family: Roboto;\"><em><span style=\"color: #666666; font-size: 13pt;\">Ooops... Risposta sbagliata... Forse un ripasso ti pu&ograve; fare comodo, dai un'occhiata!</span></em></span></p>",
+                    "name": "Text 1",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "transitionOut": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 1,
+                    "scales": true,
+                    "duration": "00:30.15",
+                    "centerX": "119.42",
+                    "width": "657.77",
+                    "height": "44.36",
+                    "id": "81EE2CA4-A597-E2C5-2E5D-5B1E8B424C86",
+                    "databegin": "00:00.85"
+                },
+                {
+                    "centerY": "0.68",
+                    "dataend": "00:31.00",
+                    "type": "txt-Paragraph",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #666666; font-size: 12pt; font-family: Roboto;\">Nell&rsquo;informativa sulla privacy, paragrafo 3.1 si trova: </span></p>\n<p><span style=\"font-family: Roboto;\">&nbsp;</span></p>\n<p><span style=\"color: #666666; font-size: 12pt; font-family: Roboto;\">\"Condividiamo o divulghiamo i tuoi dati personali con il tuo consenso o sotto la tua direzione, ad esempio quando autorizzi un client web o un'applicazione di terze parti ad accedere al tuo account o quando ci indirizzerai a condividere i tuoi feedback con un'azienda. Se hai condiviso informazioni come Messaggi diretti o Tweets protetti con qualcun altro che accede a Twitter tramite un servizio di terze parti, tieni presente che le informazioni potrebbero essere condivise con il servizio di terze parti.\"</span></p>",
+                    "name": "Text 2",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 2,
+                    "scales": true,
+                    "duration": "00:29.31",
+                    "centerX": "118.50",
+                    "width": "647.89",
+                    "height": "166.20",
+                    "id": "0030CBBA-3874-BE39-B5C3-3330F20C87C5",
+                    "databegin": "00:01.69"
+                },
+                {
+                    "centerY": "26.50",
+                    "dataend": "00:31.00",
+                    "type": "txt-Default",
+                    "text": "<p><span class=\"Apple-style-span\" style=\"color: #666666; line-height: 17px; font-family: Roboto; font-size: 13pt;\">Per il testo completo clicca&nbsp;<span style=\"text-decoration: underline;\"><a href=\"https://twitter.com/it/privacy\"><span style=\"text-decoration: underline;\">qui</span></a></span></span></p>",
+                    "name": "Text 3",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 4,
+                    "scales": true,
+                    "duration": "00:30.15",
+                    "centerX": "-338.96",
+                    "width": "198.85",
+                    "height": "153.72",
+                    "id": "1C0E3E73-BB1A-A1F4-F4E2-3CCB880A1D0D",
+                    "databegin": "00:00.85"
+                }
+            ],
+            "id": "5C36ACDD-7702-F3D8-DCCF-3330F20936C8",
+            "buttons": [
+                {
+                    "centerY": "183.39",
+                    "dataend": "00:31.00",
+                    "type": "klynt-button-3",
+                    "zIndex": 3,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "7792F56A-E889-614B-3D0F-3331571F254D",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "2EC2F1A5-9C87-CE3D-C0A2-334FC03D11F8",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "scales": true,
+                    "duration": "00:27.46",
+                    "centerX": "318.76",
+                    "width": "220.76",
+                    "height": "55.19",
+                    "label": "Riprova",
+                    "id": "5FB59A86-A929-C176-0547-3330F20CDA39",
+                    "databegin": "00:03.54"
+                }
+            ]
+        },
         "E6CF91A6-5718-360C-9C5C-3330D7D2F73D": {
             "hideInMindmap": false,
             "thumbnail": "Medias/Thumbnails/Twitter2.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "Errore vero/falso 2 REAL",
+            "title": "Errore vero/falso 2",
             "images": [
                 {
                     "centerY": "0.00",
@@ -2267,12 +2392,201 @@ klynt.data = {
                 }
             ]
         },
+        "7792F56A-E889-614B-3D0F-3331571F254D": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/Twitter_Logo_Blue.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "Vero/Falso 3",
+            "images": [
+                {
+                    "centerY": "0.00",
+                    "verticalAlign": "top",
+                    "dataend": "00:31.00",
+                    "src": "Medias/Photos/Twitter2.png",
+                    "zIndex": 0,
+                    "id": "BFC9195C-30E2-7AB3-F979-3C8E4BDBF685",
+                    "mediaHeight": 1425,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "left",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 2560,
+                    "scales": true,
+                    "duration": "00:31.00",
+                    "centerX": "0.00",
+                    "width": "970.00",
+                    "height": "545.00",
+                    "name": "Twitter2.png",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 372.5,
+            "size": "medium",
+            "y": 1290.4,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 30,
+            "color": "rgba(0,0,0,1)",
+            "texts": [
+                {
+                    "centerY": "121.39",
+                    "dataend": "00:31.00",
+                    "type": "txt-Default",
+                    "text": "<p style=\"text-align: center;\"><span style=\"font-family: Roboto;\">&nbsp;<span class=\"Apple-style-span\" style=\"color: #666666; line-height: 52px; font-size: 40px;\">FALSO</span></span></p>",
+                    "name": "Text 3",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "rgba(153,153,153,0.5)",
+                            "easing": "easeInOutSine",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "self",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "background"
+                        }
+                    ],
+                    "zIndex": 1,
+                    "rollOut": [
+                        {
+                            "value": "rgba(0,0,0,0)",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "self",
+                            "reversible": false,
+                            "delay": 0,
+                            "name": "background"
+                        }
+                    ],
+                    "scales": true,
+                    "duration": "00:26.99",
+                    "centerX": "231.78",
+                    "width": "178.00",
+                    "height": "58.00",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "B45AF92C-7592-01AF-5A8E-33332ACAAAD8",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "6F2A8E1E-4270-3E73-BA2E-33488B5103F5",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "id": "DAB758E9-DC75-00EC-AB2B-33315721697A",
+                    "databegin": "00:04.01"
+                },
+                {
+                    "centerY": "122.40",
+                    "dataend": "00:31.00",
+                    "type": "txt-Default",
+                    "text": "<p style=\"text-align: center;\"><span style=\"font-family: Roboto;\">&nbsp;<span class=\"Apple-style-span\" style=\"color: #666666; line-height: 52px; font-size: 40px;\">VERO</span></span></p>",
+                    "name": "Text 3",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "rgba(153,153,153,0.5)",
+                            "easing": "easeInOutSine",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "self",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "background"
+                        }
+                    ],
+                    "zIndex": 2,
+                    "rollOut": [
+                        {
+                            "value": "rgba(0,0,0,0)",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "self",
+                            "reversible": false,
+                            "delay": 0,
+                            "name": "background"
+                        }
+                    ],
+                    "scales": true,
+                    "duration": "00:26.99",
+                    "centerX": "-22.44",
+                    "width": "178.00",
+                    "height": "60.99",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "5C36ACDD-7702-F3D8-DCCF-3330F20936C8",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "87B276A5-6CBB-860D-221A-3342902E118C",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "id": "7133FBB2-2216-E017-7FC6-33315721DAD3",
+                    "databegin": "00:04.01"
+                },
+                {
+                    "centerY": "-46.46",
+                    "dataend": "00:31.00",
+                    "type": "txt-Default",
+                    "text": "<p style=\"text-align: center;\"><span style=\"color: #666666; font-family: Roboto;\"><span class=\"Apple-style-span\" style=\"font-size: 19px; line-height: 22px;\"><span style=\"font-size: 12pt;\">Condividiamo o divulghiamo i tuoi dati personali senza il tuo consenso, ad esempio quando autorizzi un client web o un'applicazione di terze parti ad accedere al tuo account o quando ci indirizzerai a condividere i tuoi feedback con un'azienda.</span> </span></span></p>",
+                    "name": "Text 2",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 3,
+                    "scales": true,
+                    "duration": "00:28.71",
+                    "centerX": "119.48",
+                    "width": "648.98",
+                    "height": "186.21",
+                    "id": "13EB7AC9-4DD4-DDFC-6D08-333157213B19",
+                    "databegin": "00:02.29"
+                },
+                {
+                    "centerY": "-200.48",
+                    "dataend": "00:31.00",
+                    "type": "txt-Title-2",
+                    "text": "<p><span style=\"color: #666666; font-size: 13pt; font-family: Roboto;\">Vero o Falso?</span></p>",
+                    "name": "Text 1",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 4,
+                    "scales": true,
+                    "duration": "00:30.09",
+                    "centerX": "-8.17",
+                    "width": "300.99",
+                    "height": "50.29",
+                    "id": "3A839354-6CE4-9FBF-D260-33315721A432",
+                    "databegin": "00:00.91"
+                }
+            ],
+            "id": "7792F56A-E889-614B-3D0F-3331571F254D"
+        },
         "E50C8990-D894-99B0-91B9-F104B4169797": {
             "hideInMindmap": false,
             "thumbnail": "Medias/Thumbnails/Twitter_Logo_Blue.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "Vero/Falso 1 REAL",
+            "title": "Vero/Falso 1",
             "images": [
                 {
                     "centerY": "0.00",
@@ -2456,215 +2770,26 @@ klynt.data = {
             ],
             "id": "E50C8990-D894-99B0-91B9-F104B4169797"
         },
-        "7792F56A-E889-614B-3D0F-3331571F254D": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/Twitter_Logo_Blue.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "Vero/Falso 3 SISTEMARE",
-            "images": [
-                {
-                    "centerY": "0.00",
-                    "verticalAlign": "top",
-                    "dataend": "00:31.00",
-                    "src": "Medias/Photos/Twitter2.png",
-                    "zIndex": 0,
-                    "id": "BFC9195C-30E2-7AB3-F979-3C8E4BDBF685",
-                    "mediaHeight": 1425,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "horizontalAlign": "left",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 2560,
-                    "scales": true,
-                    "duration": "00:31.00",
-                    "centerX": "0.00",
-                    "width": "970.00",
-                    "height": "545.00",
-                    "name": "Twitter2.png",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 372.5,
-            "size": "medium",
-            "y": 1290.4,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 30,
-            "color": "rgba(0,0,0,1)",
-            "texts": [
-                {
-                    "centerY": "121.39",
-                    "dataend": "00:31.00",
-                    "type": "txt-Default",
-                    "text": "<p style=\"text-align: center;\"><span style=\"font-family: Roboto;\">&nbsp;<span class=\"Apple-style-span\" style=\"color: #666666; line-height: 52px; font-size: 40px;\">FALSO</span></span></p>",
-                    "name": "Text 3",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "rollOver": [
-                        {
-                            "value": "rgba(153,153,153,0.5)",
-                            "easing": "easeInOutSine",
-                            "type": "style",
-                            "duration": 0.5,
-                            "target": "self",
-                            "reversible": true,
-                            "delay": 0,
-                            "name": "background"
-                        }
-                    ],
-                    "zIndex": 1,
-                    "rollOut": [
-                        {
-                            "value": "rgba(0,0,0,0)",
-                            "easing": "linear",
-                            "type": "style",
-                            "duration": 0.5,
-                            "target": "self",
-                            "reversible": false,
-                            "delay": 0,
-                            "name": "background"
-                        }
-                    ],
-                    "scales": true,
-                    "duration": "00:26.99",
-                    "centerX": "231.78",
-                    "width": "178.00",
-                    "height": "58.00",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "B45AF92C-7592-01AF-5A8E-33332ACAAAD8",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "6F2A8E1E-4270-3E73-BA2E-33488B5103F5",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "id": "DAB758E9-DC75-00EC-AB2B-33315721697A",
-                    "databegin": "00:04.01"
-                },
-                {
-                    "centerY": "122.40",
-                    "dataend": "00:31.00",
-                    "type": "txt-Default",
-                    "text": "<p style=\"text-align: center;\"><span style=\"font-family: Roboto;\">&nbsp;<span class=\"Apple-style-span\" style=\"color: #666666; line-height: 52px; font-size: 40px;\">VERO</span></span></p>",
-                    "name": "Text 3",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "rollOver": [
-                        {
-                            "value": "rgba(153,153,153,0.5)",
-                            "easing": "easeInOutSine",
-                            "type": "style",
-                            "duration": 0.5,
-                            "target": "self",
-                            "reversible": true,
-                            "delay": 0,
-                            "name": "background"
-                        }
-                    ],
-                    "zIndex": 2,
-                    "rollOut": [
-                        {
-                            "value": "rgba(0,0,0,0)",
-                            "easing": "linear",
-                            "type": "style",
-                            "duration": 0.5,
-                            "target": "self",
-                            "reversible": false,
-                            "delay": 0,
-                            "name": "background"
-                        }
-                    ],
-                    "scales": true,
-                    "duration": "00:26.99",
-                    "centerX": "-22.44",
-                    "width": "178.00",
-                    "height": "60.99",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "5C36ACDD-7702-F3D8-DCCF-3330F20936C8",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "87B276A5-6CBB-860D-221A-3342902E118C",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "id": "7133FBB2-2216-E017-7FC6-33315721DAD3",
-                    "databegin": "00:04.01"
-                },
-                {
-                    "centerY": "-46.46",
-                    "dataend": "00:31.00",
-                    "type": "txt-Paragraph",
-                    "text": "<p style=\"text-align: center;\"><span style=\"color: #666666; font-size: xx-large; font-family: Roboto;\"><span class=\"Apple-style-span\" style=\"font-size: 19px; line-height: 22px;\"><span style=\"font-size: 12pt;\">Condividiamo o divulghiamo i tuoi dati personali senza il tuo consenso, ad esempio quando autorizzi un client web o un'applicazione di terze parti ad accedere al tuo account o quando ci indirizzerai a condividere i tuoi feedback con un'azienda.</span> </span></span></p>",
-                    "name": "Text 2",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 3,
-                    "scales": true,
-                    "duration": "00:28.71",
-                    "centerX": "119.48",
-                    "width": "648.98",
-                    "height": "186.21",
-                    "id": "13EB7AC9-4DD4-DDFC-6D08-333157213B19",
-                    "databegin": "00:02.29"
-                },
-                {
-                    "centerY": "-200.48",
-                    "dataend": "00:31.00",
-                    "type": "txt-Title-2",
-                    "text": "<p><span style=\"color: #666666; font-size: 13pt; font-family: Roboto;\">Vero o Falso?</span></p>",
-                    "name": "Text 1",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 4,
-                    "scales": true,
-                    "duration": "00:30.09",
-                    "centerX": "-8.17",
-                    "width": "300.99",
-                    "height": "50.29",
-                    "id": "3A839354-6CE4-9FBF-D260-33315721A432",
-                    "databegin": "00:00.91"
-                }
-            ],
-            "id": "7792F56A-E889-614B-3D0F-3331571F254D"
-        },
-        "5C36ACDD-7702-F3D8-DCCF-3330F20936C8": {
+        "2957910C-27EC-5A9F-1548-F113D24BB74B": {
             "hideInMindmap": false,
             "thumbnail": "Medias/Thumbnails/Twitter2.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "Errore vero/falso 3 REAL",
+            "title": "Hai vinto",
             "images": [
                 {
                     "centerY": "0.00",
-                    "verticalAlign": "top",
+                    "verticalAlign": "middle",
                     "dataend": "00:31.00",
                     "src": "Medias/Photos/Twitter2.png",
-                    "zIndex": 0,
-                    "id": "FFAB76CF-CBD2-1F99-5A01-3C90B9C1EA93",
+                    "zIndex": 1,
+                    "id": "9DC3D26B-A347-C3FF-139F-5AFD4924730D",
                     "mediaHeight": 1425,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
                     },
-                    "horizontalAlign": "left",
+                    "horizontalAlign": "center",
                     "scaleMode": "zoom",
                     "mediaWidth": 2560,
                     "scales": true,
@@ -2676,108 +2801,72 @@ klynt.data = {
                     "databegin": "00:00.00"
                 }
             ],
-            "x": 123.55,
-            "size": "medium",
-            "y": 1291.15,
+            "x": 1034.3333333333335,
+            "size": "large",
+            "y": 522.3000000000001,
             "backgroundColor": "rgba(0,0,0,1)",
             "duration": 30,
             "color": "rgba(0,0,0,1)",
             "texts": [
                 {
-                    "centerY": "-127.87",
+                    "centerY": "177.30",
                     "dataend": "00:31.00",
-                    "type": "txt-Paragraph",
-                    "text": "<p><span style=\"font-family: Roboto;\"><em><span style=\"color: #666666; font-size: 13pt;\">Ooops... Risposta sbagliata... Forse un ripasso ti pu&ograve; fare comodo, dai un'occhiata!</span></em></span></p>",
-                    "name": "Text 1",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "transitionOut": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 1,
-                    "scales": true,
-                    "duration": "00:30.15",
-                    "centerX": "119.42",
-                    "width": "657.77",
-                    "height": "44.36",
-                    "id": "81EE2CA4-A597-E2C5-2E5D-5B1E8B424C86",
-                    "databegin": "00:00.85"
-                },
-                {
-                    "centerY": "0.68",
-                    "dataend": "00:31.00",
-                    "type": "txt-Paragraph",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #666666; font-size: 12pt; font-family: Roboto;\">Nell&rsquo;informativa sulla privacy, paragrafo 3.1 si trova: </span></p>\n<p><span style=\"font-family: Roboto;\">&nbsp;</span></p>\n<p><span style=\"color: #666666; font-size: 12pt; font-family: Roboto;\">\"Condividiamo o divulghiamo i tuoi dati personali con il tuo consenso o sotto la tua direzione, ad esempio quando autorizzi un client web o un'applicazione di terze parti ad accedere al tuo account o quando ci indirizzerai a condividere i tuoi feedback con un'azienda. Se hai condiviso informazioni come Messaggi diretti o Tweets protetti con qualcun altro che accede a Twitter tramite un servizio di terze parti, tieni presente che le informazioni potrebbero essere condivise con il servizio di terze parti.\"</span></p>",
-                    "name": "Text 2",
+                    "type": "txt-Default",
+                    "text": "<p style=\"text-align: center;\"><span style=\"font-size: 70pt; background-color: #00acee; border-top-left-radius: 10px 10px; border-top-right-radius: 10px 10px; border-bottom-right-radius: 10px 10px; border-bottom-left-radius: 10px 10px; color: #ffffff; font-family: Roboto;\">LONG</span></p>",
+                    "name": "Text 3",
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
                     },
                     "zIndex": 2,
                     "scales": true,
-                    "duration": "00:29.31",
-                    "centerX": "118.50",
-                    "width": "647.89",
-                    "height": "166.20",
-                    "id": "0030CBBA-3874-BE39-B5C3-3330F20C87C5",
-                    "databegin": "00:01.69"
+                    "duration": "00:31.00",
+                    "centerX": "104.15",
+                    "width": "551.90",
+                    "height": "137.97",
+                    "id": "B8CE2B55-22B7-FC4D-6D36-5B0A0D11D4E1",
+                    "databegin": "00:00.00"
                 },
                 {
-                    "centerY": "26.50",
+                    "centerY": "104.17",
                     "dataend": "00:31.00",
-                    "type": "txt-Default",
-                    "text": "<p><span class=\"Apple-style-span\" style=\"color: #666666; line-height: 17px; font-family: Roboto; font-size: 13pt;\">Per il testo completo clicca&nbsp;<span style=\"text-decoration: underline;\"><a href=\"https://twitter.com/it/privacy\"><span style=\"text-decoration: underline;\">qui</span></a></span></span></p>",
-                    "name": "Text 3",
+                    "type": "txt-Paragraph",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #666666; font-size: 13pt;\">Se hai gi&agrave; ottenuto le altre parole clicca&nbsp;<span style=\"text-decoration: underline; color: #003366;\"><a href=\"http://visionifuture.epizy.com/publish-to-web/index.html\"><span style=\"text-decoration: underline; color: #003366;\">qui</span></a></span>, altriment inquadra i QR Code del poster per completare i quiz rimanenti</span></p>",
+                    "name": "Text 2",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 3,
+                    "scales": true,
+                    "duration": "00:31.00",
+                    "centerX": "-345.65",
+                    "width": "160.05",
+                    "height": "286.99",
+                    "id": "376B09A4-C929-630C-C919-5B0577658694",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-26.78",
+                    "dataend": "00:31.00",
+                    "type": "txt-Title-1",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #666666; font-size: 30pt; font-family: Roboto;\">Complimenti!</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #666666; font-size: 30pt; font-family: Roboto;\">Hai ottenuto una delle quattro parole chiave che ti serviranno per completare l'esperienza.</span></p>",
+                    "name": "Text 1",
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
                     },
                     "zIndex": 4,
                     "scales": true,
-                    "duration": "00:30.15",
-                    "centerX": "-338.96",
-                    "width": "198.85",
-                    "height": "153.72",
-                    "id": "1C0E3E73-BB1A-A1F4-F4E2-3CCB880A1D0D",
-                    "databegin": "00:00.85"
+                    "duration": "00:31.00",
+                    "centerX": "115.83",
+                    "width": "613.75",
+                    "height": "225.70",
+                    "id": "70A66935-0EBB-F70C-14BF-F1174FB201E7",
+                    "databegin": "00:00.00"
                 }
             ],
-            "id": "5C36ACDD-7702-F3D8-DCCF-3330F20936C8",
-            "buttons": [
-                {
-                    "centerY": "183.39",
-                    "dataend": "00:31.00",
-                    "type": "klynt-button-3",
-                    "zIndex": 3,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "7792F56A-E889-614B-3D0F-3331571F254D",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "2EC2F1A5-9C87-CE3D-C0A2-334FC03D11F8",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "scales": true,
-                    "duration": "00:27.46",
-                    "centerX": "318.76",
-                    "width": "220.76",
-                    "height": "55.19",
-                    "label": "Riprova",
-                    "id": "5FB59A86-A929-C176-0547-3330F20CDA39",
-                    "databegin": "00:03.54"
-                }
-            ]
+            "id": "2957910C-27EC-5A9F-1548-F113D24BB74B"
         },
         "159CE1D0-9532-B4C5-C0CF-F0E7CE9BFB98": {
             "hideInMindmap": false,
@@ -2871,12 +2960,163 @@ klynt.data = {
                 }
             ]
         },
+        "BE88ED9B-CE3E-DF04-D257-330132CB1F2D": {
+            "hideInMindmap": false,
+            "title": "Schermata vuota con sfondo",
+            "y": 111.6,
+            "hideThumbnailInMindmap": false,
+            "id": "BE88ED9B-CE3E-DF04-D257-330132CB1F2D",
+            "hideTitleInMindmap": false,
+            "x": 1511.55,
+            "size": "medium",
+            "backgroundColor": "rgba(0,0,0,1)",
+            "duration": 30,
+            "color": "rgba(0,0,0,1)"
+        },
+        "AF881154-2C53-C884-9EEA-2E7CB1684D4C": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/Twitter2.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "Errore vero/falso 1 ",
+            "images": [
+                {
+                    "centerY": "0.00",
+                    "verticalAlign": "top",
+                    "dataend": "00:31.00",
+                    "src": "Medias/Photos/Twitter2.png",
+                    "zIndex": 0,
+                    "id": "D12F2E0E-66A1-F61B-CAAB-3C82BE04724B",
+                    "mediaHeight": 1425,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "left",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 2560,
+                    "scales": true,
+                    "duration": "00:31.00",
+                    "centerX": "0.00",
+                    "width": "970.00",
+                    "height": "545.00",
+                    "name": "Twitter2.png",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 81.75,
+            "size": "medium",
+            "y": 941.15,
+            "backgroundColor": "rgba(0,0,0,1)",
+            "duration": 30,
+            "color": "rgba(0,0,0,1)",
+            "texts": [
+                {
+                    "centerY": "-127.87",
+                    "dataend": "00:31.00",
+                    "type": "txt-Paragraph",
+                    "text": "<p><span style=\"font-family: Roboto;\"><em><span style=\"color: #666666; font-size: 13pt;\">Ooops... Risposta sbagliata... Forse un ripasso ti pu&ograve; fare comodo, dai un'occhiata!</span></em></span></p>",
+                    "name": "Text 1",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 1,
+                    "scales": true,
+                    "duration": "00:30.15",
+                    "centerX": "119.42",
+                    "width": "657.77",
+                    "height": "44.36",
+                    "id": "CCF682E8-EEE5-37EC-0511-5B1D9D6354CE",
+                    "databegin": "00:00.85"
+                },
+                {
+                    "centerY": "9.43",
+                    "dataend": "00:31.00",
+                    "type": "txt-Paragraph",
+                    "text": "<p><span style=\"color: #666666; font-size: 13pt; font-family: Roboto;\"><span class=\"Apple-style-span\" style=\"line-height: 19px;\">Nell&rsquo;informativa sulla privacy, paragrafo 2.4 si trova: </span></span></p>\n<p><span style=\"font-size: 13pt; font-family: Roboto;\">&nbsp;</span></p>\n<p><span style=\"color: #666666; font-size: 13pt; font-family: Roboto;\"><span class=\"Apple-style-span\" style=\"line-height: 19px;\">\"Riceviamo informazioni quando visualizzi contenuti o altrimenti interagisci con i nostri servizi, che chiamiamo \"Dati di registro\", anche se non hai creato un account. Ad esempio, quando visiti i nostri siti Web, accedi ai nostri servizi, interagisci con le nostre notifiche email, utilizzi il tuo account per autenticare a un servizio di terze parti o visita un servizio di terze parti che include contenuti di Twitter, potremmo ricevere informazioni su di te\"</span></span></p>",
+                    "name": "Text 2",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 2,
+                    "scales": true,
+                    "duration": "00:29.31",
+                    "centerX": "118.53",
+                    "width": "657.70",
+                    "height": "197.13",
+                    "id": "D2C52F73-928A-53EC-198F-2E7CB16AC7FA",
+                    "databegin": "00:01.69"
+                },
+                {
+                    "centerY": "29.74",
+                    "dataend": "00:31.00",
+                    "type": "txt-Default",
+                    "text": "<p><span class=\"Apple-style-span\" style=\"color: #666666; line-height: 17px; font-family: Roboto; font-size: 13pt;\">Per il testo completo clicca&nbsp;<span style=\"text-decoration: underline; color: #003366;\"><a href=\"https://twitter.com/it/privacy\"><span style=\"text-decoration: underline; color: #003366;\">qui</span></a></span></span></p>",
+                    "name": "Text 3",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "transitionOut": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 4,
+                    "scales": true,
+                    "duration": "00:30.15",
+                    "centerX": "-338.94",
+                    "width": "198.85",
+                    "height": "160.20",
+                    "id": "EC2C5289-DF2A-6E39-6D69-3CCE5F3462BF",
+                    "databegin": "00:00.85"
+                }
+            ],
+            "id": "AF881154-2C53-C884-9EEA-2E7CB1684D4C",
+            "buttons": [
+                {
+                    "centerY": "195.06",
+                    "dataend": "00:31.00",
+                    "type": "klynt-button-3",
+                    "zIndex": 3,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "transitionOut": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "E50C8990-D894-99B0-91B9-F104B4169797",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "479282A2-62DC-92B5-1D27-332CD302C519",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "scales": true,
+                    "duration": "00:27.06",
+                    "centerX": "303.89",
+                    "width": "220.76",
+                    "height": "55.19",
+                    "label": "Riprova",
+                    "id": "393BB457-A327-0950-7AEC-332BC6BC9EE0",
+                    "databegin": "00:03.94"
+                }
+            ]
+        },
         "B45AF92C-7592-01AF-5A8E-33332ACAAAD8": {
             "hideInMindmap": false,
             "thumbnail": "Medias/Thumbnails/Twitter_Logo_Blue.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "Vero/Falso 4 REAL",
+            "title": "Vero/Falso 4",
             "images": [
                 {
                     "centerY": "0.00",
@@ -3023,7 +3263,7 @@ klynt.data = {
                     "centerY": "-59.18",
                     "dataend": "00:31.00",
                     "type": "txt-Paragraph",
-                    "text": "<p style=\"text-align: center;\"><span style=\"color: #666666; font-size: xx-large;\"><span class=\"Apple-style-span\" style=\"font-size: 19px; line-height: 22px;\"><span style=\"font-size: 12pt;\">Condividiamo o divulghiamo dati non personali, come informazioni aggregate come il numero totale di volte in cui le persone si sono impegnate con un Tweet, il numero di persone che hanno cliccato su un particolare link o hanno votato in un sondaggio in un Tweet.</span> </span></span></p>",
+                    "text": "<p style=\"text-align: center;\"><span style=\"color: #666666; font-size: 13pt;\"><span class=\"Apple-style-span\" style=\"line-height: 22px;\">Condividiamo o divulghiamo dati non personali, come informazioni aggregate come il numero totale di volte in cui le persone si sono impegnate con un Tweet, il numero di persone che hanno cliccato su un particolare link o hanno votato in un sondaggio in un Tweet. </span></span></p>",
                     "name": "Text 2",
                     "transitionIn": {
                         "type": "fade",
@@ -3060,150 +3300,12 @@ klynt.data = {
             ],
             "id": "B45AF92C-7592-01AF-5A8E-33332ACAAAD8"
         },
-        "AF881154-2C53-C884-9EEA-2E7CB1684D4C": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/Twitter2.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "Errore vero/falso 1 REAL",
-            "images": [
-                {
-                    "centerY": "0.00",
-                    "verticalAlign": "top",
-                    "dataend": "00:31.00",
-                    "src": "Medias/Photos/Twitter2.png",
-                    "zIndex": 0,
-                    "id": "D12F2E0E-66A1-F61B-CAAB-3C82BE04724B",
-                    "mediaHeight": 1425,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "horizontalAlign": "left",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 2560,
-                    "scales": true,
-                    "duration": "00:31.00",
-                    "centerX": "0.00",
-                    "width": "970.00",
-                    "height": "545.00",
-                    "name": "Twitter2.png",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 81.75,
-            "size": "medium",
-            "y": 941.15,
-            "backgroundColor": "rgba(0,0,0,1)",
-            "duration": 30,
-            "color": "rgba(0,0,0,1)",
-            "texts": [
-                {
-                    "centerY": "-127.87",
-                    "dataend": "00:31.00",
-                    "type": "txt-Paragraph",
-                    "text": "<p><span style=\"font-family: Roboto;\"><em><span style=\"color: #666666; font-size: 13pt;\">Ooops... Risposta sbagliata... Forse un ripasso ti pu&ograve; fare comodo, dai un'occhiata!</span></em></span></p>",
-                    "name": "Text 1",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 1,
-                    "scales": true,
-                    "duration": "00:30.15",
-                    "centerX": "119.42",
-                    "width": "657.77",
-                    "height": "44.36",
-                    "id": "CCF682E8-EEE5-37EC-0511-5B1D9D6354CE",
-                    "databegin": "00:00.85"
-                },
-                {
-                    "centerY": "9.43",
-                    "dataend": "00:31.00",
-                    "type": "txt-Paragraph",
-                    "text": "<p><span style=\"color: #666666; font-size: 13pt; font-family: Roboto;\"><span class=\"Apple-style-span\" style=\"line-height: 19px;\">Nell&rsquo;informativa sulla privacy, paragrafo 2.4 si trova: </span></span></p>\n<p><span style=\"font-size: 13pt; font-family: Roboto;\">&nbsp;</span></p>\n<p><span style=\"color: #666666; font-size: 13pt; font-family: Roboto;\"><span class=\"Apple-style-span\" style=\"line-height: 19px;\">\"Riceviamo informazioni quando visualizzi contenuti o altrimenti interagisci con i nostri servizi, che chiamiamo \"Dati di registro\", anche se non hai creato un account. Ad esempio, quando visiti i nostri siti Web, accedi ai nostri servizi, interagisci con le nostre notifiche email, utilizzi il tuo account per autenticare a un servizio di terze parti o visita un servizio di terze parti che include contenuti di Twitter, potremmo ricevere informazioni su di te\"</span></span></p>",
-                    "name": "Text 2",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 2,
-                    "scales": true,
-                    "duration": "00:29.31",
-                    "centerX": "118.53",
-                    "width": "657.70",
-                    "height": "197.13",
-                    "id": "D2C52F73-928A-53EC-198F-2E7CB16AC7FA",
-                    "databegin": "00:01.69"
-                },
-                {
-                    "centerY": "29.74",
-                    "dataend": "00:31.00",
-                    "type": "txt-Default",
-                    "text": "<p><span class=\"Apple-style-span\" style=\"color: #666666; line-height: 17px; font-family: Roboto; font-size: 13pt;\">Per il testo completo clicca&nbsp;<span style=\"text-decoration: underline; color: #003366;\"><a href=\"https://twitter.com/it/privacy\"><span style=\"text-decoration: underline; color: #003366;\">qui</span></a></span></span></p>",
-                    "name": "Text 3",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "transitionOut": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 4,
-                    "scales": true,
-                    "duration": "00:30.15",
-                    "centerX": "-338.94",
-                    "width": "198.85",
-                    "height": "160.20",
-                    "id": "EC2C5289-DF2A-6E39-6D69-3CCE5F3462BF",
-                    "databegin": "00:00.85"
-                }
-            ],
-            "id": "AF881154-2C53-C884-9EEA-2E7CB1684D4C",
-            "buttons": [
-                {
-                    "centerY": "195.06",
-                    "dataend": "00:31.00",
-                    "type": "klynt-button-3",
-                    "zIndex": 3,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "transitionOut": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "E50C8990-D894-99B0-91B9-F104B4169797",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "479282A2-62DC-92B5-1D27-332CD302C519",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "scales": true,
-                    "duration": "00:27.06",
-                    "centerX": "303.89",
-                    "width": "220.76",
-                    "height": "55.19",
-                    "label": "Riprova",
-                    "id": "393BB457-A327-0950-7AEC-332BC6BC9EE0",
-                    "databegin": "00:03.94"
-                }
-            ]
-        },
         "D8ED231B-43F4-F3BC-19C1-3358503E16E9": {
             "hideInMindmap": false,
             "thumbnail": "Medias/Thumbnails/Twitter_Logo_Blue.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "Quiz 5 REAL",
+            "title": "Quiz 5",
             "images": [
                 {
                     "centerY": "1.23",
@@ -3532,104 +3634,6 @@ klynt.data = {
                 }
             ],
             "id": "D8ED231B-43F4-F3BC-19C1-3358503E16E9"
-        },
-        "2957910C-27EC-5A9F-1548-F113D24BB74B": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/Twitter2.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "Hai vinto",
-            "images": [
-                {
-                    "centerY": "0.00",
-                    "verticalAlign": "middle",
-                    "dataend": "00:31.00",
-                    "src": "Medias/Photos/Twitter2.png",
-                    "zIndex": 1,
-                    "id": "9DC3D26B-A347-C3FF-139F-5AFD4924730D",
-                    "mediaHeight": 1425,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 2560,
-                    "scales": true,
-                    "duration": "00:31.00",
-                    "centerX": "0.00",
-                    "width": "970.00",
-                    "height": "545.00",
-                    "name": "Twitter2.png",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 992.5333333333334,
-            "size": "large",
-            "y": 373.3,
-            "backgroundColor": "rgba(0,0,0,1)",
-            "duration": 30,
-            "color": "rgba(0,0,0,1)",
-            "texts": [
-                {
-                    "centerY": "177.30",
-                    "dataend": "00:31.00",
-                    "type": "txt-Default",
-                    "text": "<p style=\"text-align: center;\"><span style=\"font-size: 70pt; background-color: #00acee; border-top-left-radius: 10px 10px; border-top-right-radius: 10px 10px; border-bottom-right-radius: 10px 10px; border-bottom-left-radius: 10px 10px; color: #ffffff; font-family: Roboto;\">LONG</span></p>",
-                    "name": "Text 3",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 2,
-                    "scales": true,
-                    "duration": "00:31.00",
-                    "centerX": "104.15",
-                    "width": "551.90",
-                    "height": "137.97",
-                    "id": "B8CE2B55-22B7-FC4D-6D36-5B0A0D11D4E1",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "104.17",
-                    "dataend": "00:31.00",
-                    "type": "txt-Paragraph",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #666666; font-size: 13pt;\">Se hai gi&agrave; ottenuto le altre parole clicca&nbsp;<span style=\"text-decoration: underline; color: #003366;\"><a href=\"http://visionifuture.epizy.com/publish-to-web/index.html\"><span style=\"text-decoration: underline; color: #003366;\">qui</span></a></span>, altriment inquadra i QR Code del poster per completare i quiz rimanenti</span></p>",
-                    "name": "Text 2",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 3,
-                    "scales": true,
-                    "duration": "00:31.00",
-                    "centerX": "-345.65",
-                    "width": "160.05",
-                    "height": "286.99",
-                    "id": "376B09A4-C929-630C-C919-5B0577658694",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-26.78",
-                    "dataend": "00:31.00",
-                    "type": "txt-Title-1",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #666666; font-size: 30pt; font-family: Roboto;\">Complimenti!</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #666666; font-size: 30pt; font-family: Roboto;\">Hai ottenuto una delle quattro parole chiave che ti serviranno per completare l'esperienza.</span></p>",
-                    "name": "Text 1",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 4,
-                    "scales": true,
-                    "duration": "00:31.00",
-                    "centerX": "115.83",
-                    "width": "613.75",
-                    "height": "225.70",
-                    "id": "70A66935-0EBB-F70C-14BF-F1174FB201E7",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "id": "2957910C-27EC-5A9F-1548-F113D24BB74B"
         }
     },
     "share": {
@@ -3742,7 +3746,7 @@ klynt.data = {
         "mapsKey": "",
         "title": "Visioni Future - Twitter",
         "author": "bitpop",
-        "modificationDate": 1547813293736,
+        "modificationDate": 1547815032110,
         "overlayCloseButtonTop": 16,
         "projectId": "249963E8-B1D1-822D-A613-5B0DB1529200",
         "primaryColor": 3355443,
